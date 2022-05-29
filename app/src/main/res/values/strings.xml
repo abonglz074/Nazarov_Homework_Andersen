@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">HomeWork_3_1</string>
+    <string name="first_country_name">Austria</string>
+    <string name="second_country_name">Poland</string>
+    <string name="third_country_name">Italy</string>
+    <string name="fourth_country_name">Columbia</string>
+    <string name="fifth_country_name">Madagascar</string>
+    <string name="sixth_country_name">Thailand</string>
+    <string name="seventh_country_name">Denmark</string>
+    <string name="eighth_country_name">Switzerland</string>
+    <string name="second_task">Go to second task</string>
+    <string name="first_task">Go back to first task</string>
+    <string name="edit_text_hint">Введи ссылку на картинку</string>
+    <string name="submit_btn_name">SUBMIT</string>
+    <string name="go_back_btn">GO BACK</string>
 </resources>
