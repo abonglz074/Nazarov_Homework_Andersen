@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClockMainActivity">
+
+    <com.mytestprogram.homework_4_v3.ClockView
+        android:id="@+id/clockView"
+        app:clock_ring_color="@color/black"
+        app:clock_scale_color="@color/black"
+        app:clock_hour_color="@color/black"
+        app:clock_min_color="@color/red"
+        app:clock_second_color="@color/blue"
+        app:hour_hand_length="180"
+        app:min_hand_length="150"
+        app:second_hand_length="120"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</FrameLayout>
